@@ -11,6 +11,7 @@ Spotipy
 Scikit-learn
 Requests
 Base64
+Spotify Developer Account
 
 ## Data
 Data is fetched from Spotify's API using the Spotipy library. It includes information about tracks such as name, artist, album details, and various audio features like danceability, energy, key, loudness, and more.
